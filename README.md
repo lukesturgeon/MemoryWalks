@@ -1,5 +1,5 @@
 # MemoryWalks
-A series of walks through emotions we might all experience but don’t yet exist in our vocabulary; Kenopsia, Anecdoche, Sonder, Onism, and Monachopsis, written by John Koenig. Each walk introduces one of these emotional states, whilst creating a subtle and temporary feeling of being out-of-place. 
+A series of walks through emotions we might all experience but don&rsquo;t yet exist in our vocabulary; Kenopsia, Anecdoche, Sonder, Onism, and Monachopsis, written by John Koenig. Each walk introduces one of these emotional states, whilst creating a subtle and temporary feeling of being out-of-place. 
 
 For the Changing Minds Festival at The Southbank Centre this project aims to highlight the individual ways that we experience and perceive the world. By following a pre-recorded path through a location, paired with binaural sound, we immerse the viewer in a past experience whilst simultaneously and temporarily removing them from the present.
 
